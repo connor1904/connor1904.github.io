@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Connor Johnston's webspace!
 
-You can use the [editor on GitHub](https://github.com/connor1904/connor1904.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You can visit my other website [here](conror.me).
 
 ### Markdown
 
